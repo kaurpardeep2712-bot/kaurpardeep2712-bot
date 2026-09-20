@@ -2,7 +2,7 @@
 
 🚀 About Me
 
-I’m a **Full Stack Developer** with **1 year of experience**, including strong expertise as a **Frontend Developer with web designing experience**. I build responsive, user-friendly web applications and turn designs into clean, functional code using modern technologies.
+I’m a **Full Stack Developer** with **1.5 year of experience**, including strong expertise as a **Frontend Developer with web designing experience**. I build responsive, user-friendly web applications and turn designs into clean, functional code using modern technologies.
 
 ---
 
